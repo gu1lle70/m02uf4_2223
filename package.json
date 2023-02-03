@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gu1lle70/m02uf4_2223/issues"
   },
-  "homepage": "https://github.com/gu1lle70/m02uf4_2223#readme"
+  "homepage": "https://github.com/gu1lle70/m02uf4_2223#readme",
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  }
 }
